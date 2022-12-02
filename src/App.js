@@ -205,6 +205,7 @@ function App() {
               <button className="button">Go</button>
               </div>
               <p className="copyright">Copyright 2020. All Rights Reserved</p>
+              <p className="copyright">Copyright 2020. All Rights Reserved</p>
               
             </div>
           </div>
